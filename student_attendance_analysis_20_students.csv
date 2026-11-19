@@ -1,0 +1,21 @@
+Student_ID,Student_Name,Total_Classes,Classes_Attended,Classes_Absent,Attendance_Percentage,Attendance_Status
+S001,Aarav Sharma,60,54,6,90.0,Eligible
+S002,Aditi Verma,60,48,12,80.0,Eligible
+S003,Rohan Gupta,60,42,18,70.0,Shortage
+S004,Priya Singh,60,57,3,95.0,Eligible
+S005,Karan Patel,60,39,21,65.0,Shortage
+S006,Neha Kumari,60,51,9,85.0,Eligible
+S007,Arjun Mehta,60,45,15,75.0,Eligible
+S008,Sneha Yadav,60,60,0,100.0,Eligible
+S009,Rahul Joshi,60,36,24,60.0,Shortage
+S010,Isha Malhotra,60,50,10,83.33,Eligible
+S011,Vikram Rao,60,47,13,78.33,Eligible
+S012,Ananya Das,60,55,5,91.67,Eligible
+S013,Aditya Mishra,60,41,19,68.33,Shortage
+S014,Pooja Nair,60,46,14,76.67,Eligible
+S015,Manish Kumar,60,53,7,88.33,Eligible
+S016,Kavya Reddy,60,44,16,73.33,Shortage
+S017,Sahil Khan,60,38,22,63.33,Shortage
+S018,Meera Shah,60,52,8,86.67,Eligible
+S019,Devansh Jain,60,49,11,81.67,Eligible
+S020,Riya Choudhary,60,43,17,71.67,Shortage
